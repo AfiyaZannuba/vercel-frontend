@@ -1,5 +1,4 @@
 import { Link } from "react-router";
-import Note from "../../../backend/src/models/Note";
 import { PenSquareIcon, Trash2Icon } from "lucide-react";
 import { formatDate } from "../lib/utils";
 import api from "../lib/axios";
